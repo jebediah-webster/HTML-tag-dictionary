@@ -1,0 +1,80 @@
+html Tag Dictionary
+
+
+
+a:defines beginning and end of hyperlink texts
+
+attributes: href, download, target, title, name, & hreflang
+
+example:<a>a website<a>
+
+
+
+h1: header tag, makes the text large and puts it on a separate line
+
+attributes: none
+
+example:<h1>Mr pelletier</h1>
+
+
+h6:defines least important heading
+
+attributes:none
+
+example:<h6>mr pelletier<h6>
+
+
+
+img:defines an image
+
+attributes:src & alt
+
+example:<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+
+
+
+li:tag placed within either <ol> tag or <ul> tag to represent each individual item on the list
+
+attributes:none
+
+example:<ul>
+	<li>item</li>
+	<li>item</li>
+	<li>item</li>
+</ul>
+
+
+
+ol:defines an ordered list
+
+attributes:none
+
+example:<ol>
+  <li>the first day of christmas</li>
+  <li>the second day of christmas</li>
+  <li>the third day of christmas</li>
+  <li>the fourth day of christmas</li>
+  <li>the fifth day of christmas</li>
+</ol>
+
+
+
+p:defines a paragraph
+
+attributes:none
+
+example:<p>paragraph text</p>
+
+
+
+ul: defines an unordered list
+
+attributes:none
+
+example:<ul>
+	<li>item</li>
+	<li>item</li>
+	<li>item</li>
+</ul>
+
+
